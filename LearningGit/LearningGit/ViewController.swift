@@ -17,6 +17,8 @@ class ViewController: UIViewController {
         print("This change belong to feature 1 branch")
         
         print("Cherry picked this from Feature 1")
+        
+        print("Change from feature 1")
     }
 
 
