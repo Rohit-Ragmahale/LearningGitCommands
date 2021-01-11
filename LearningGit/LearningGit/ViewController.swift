@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        
+        view.backgroundColor = .red
         print("This change belong to feature 1 branch")
         
         print("Cherry picked this from Feature 1")
